@@ -1,5 +1,5 @@
 # EDA_Dashboard
-Exploratory Data Analysis Dashboard
+Exploratory Data Analysis Dashboard, a useful tool for data visualization and data analysis.
 
 ## Explanation
 
